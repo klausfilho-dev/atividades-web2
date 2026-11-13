@@ -204,3 +204,4 @@ response*, *HTTP*, *JSON*, *API* e *CORS*. Aqui aplicamos tudo isso numa mesma
 funcionalidade real (uma loja) para comparar **como o código é organizado** em
 cada geração de arquitetura Web.
 "# atividades-web2" 
+"# atividades-web2" 
